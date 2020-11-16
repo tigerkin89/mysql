@@ -3,7 +3,7 @@
 
 ## docker 이미지 생성
 ```ruby
-$ sudo docker build --tag .
+$ sudo docker build --tag mysql .
 ```
 ## container 실행
 
